@@ -6,7 +6,7 @@ import java.util.concurrent.CountDownLatch;
  * created by reedfan on 2019/4/21 0021
  */
 public class TestCountDownLatch {
-    /*
+    /**
     CountDownLatch ：闭锁，在完成某些运算是，只有其他所有线程的运算全部完成，当前运算才继续执行
     用例：主线程等其他线程执行完之后再继续执行，比如计算运算时间
      */
